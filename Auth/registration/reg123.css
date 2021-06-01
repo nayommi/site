@@ -1,0 +1,53 @@
+html,
+body {
+  display: flex;
+  align-items: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background: #494949 url(images/unnamed.jpg);
+  background-attachment: fixed;
+  background-size: 100%;
+
+}
+.form{
+color: #ffffff;
+position:relative;
+}
+.bd-placeholder-img {
+font-size: 1.125rem;
+text-anchor: middle;
+-webkit-user-select: none;
+-moz-user-select: none;
+user-select: none;
+}
+
+min-width: 768px {
+.bd-placeholder-img-lg {
+font-size: 3.5rem;
+
+.form-signin .form-control:focus {
+z-index: 2;
+}
+
+.form-signin input[type="email"] {
+margin-bottom: -1px;
+
+}
+
+.form-signin input[type="password"] {
+
+}
+
+.b1{
+width: 251px;
+font-size: 19px;
+background: -moz-linear-gradient(#00BBD6, #EBFFFF);
+background: -webkit-gradient(linear, 0 0, 0 100%, from(#00BBD6), to(#EBFFFF));
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00BBD6', endColorstr='#EBFFFF');
+padding: 3px 7px;
+color: #333;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+border-radius: 5px;
+border: 1px solid #666;
+}
